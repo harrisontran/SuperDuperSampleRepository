@@ -1,0 +1,2 @@
+# SuperDuperSampleRepository
+Temporary repository
